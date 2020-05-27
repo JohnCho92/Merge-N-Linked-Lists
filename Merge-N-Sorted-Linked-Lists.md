@@ -210,7 +210,7 @@ N represents the total number of linked lists in an input array.
 
 ---
 
-## Optimized Solution by Divide and Conquer
+## Optimized Approach by Divide and Conquer
 
 An optimized approach would be to:
 
