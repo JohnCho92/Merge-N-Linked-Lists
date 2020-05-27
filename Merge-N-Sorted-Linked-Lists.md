@@ -2,7 +2,7 @@
 
 ## Interviewer Prompt
 
-Write a function that takes in the heads of N sorted Singly Linked Lists and return the head of the merged list. The merged list should be in sorted order.
+Write a function that takes in the heads of N sorted Singly Linked Lists and return the merged list. The merged list should be in sorted order.
 
 Each Linked List node has an integer value as well as a next node pointing to the next node in the list or to none / null if it is the tail of the list.
 
