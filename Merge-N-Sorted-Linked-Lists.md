@@ -73,7 +73,7 @@ function mergeNLists(lists) {
 ### Space Complexity: O(n)
 
 - Creating an array with all node values takes O(n) space
-- Sorting this array using sort() method takes O(log n) space (click [here](https://blog.shovonhasan.com/time-space-complexity-of-array-sort-in-v8/) to learn more about time and space complexity of sort())
+- Sorting this array using sort() method takes O(log n) space (click [here](https://blog.shovonhasan.com/time-space-complexity-of-array-sort-in-v8/) to learn more about time and space complexity of sort() method)
 - Generating the merged linked list takes O(n) space
 
 ---
