@@ -223,7 +223,7 @@ An optimized approach would be to:
 3. Repeat step 2 until one single sorted list of N linked lists is generated
 4. Return the merged list
 
-## Diagram
+## Divide and Conquer Approach Diagram
 
 ![Divide and Conquer Approach Diagram](Merge-N-Sorted-List-Diagram.png)
 
