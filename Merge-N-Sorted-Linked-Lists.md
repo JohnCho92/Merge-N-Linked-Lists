@@ -1,7 +1,3 @@
-[Reference](https://leetcode.com/problems/merge-two-sorted-lists/solution/)
-
-Leetcode Premium is required to access the above reference.
-
 # Merge N Sorted Linked Lists
 
 ## Interviewer Prompt
@@ -283,3 +279,9 @@ N represents the total number of linked lists in an input array.
 ### Space Complexity: O(1)
 
 - Merging N sorted linked lists takes O(1) space
+
+---
+
+## References
+
+- [Leetcode Solution](https://leetcode.com/problems/merge-two-sorted-lists/solution/) (Leetcode Premium is needed to access the solution)
